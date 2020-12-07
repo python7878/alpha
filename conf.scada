@@ -1,0 +1,7 @@
+# flag is awaiting: 
+
+package conf
+
+object World extends App {
+  println ("Hello, World!")
+}
